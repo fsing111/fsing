@@ -31,7 +31,7 @@ theme:
     annotation: material/star-four-points-circle # 注释图标
 nav:
   - 主页:
-    - : index.md 
+    - Home: index.md 
       
 markdown_extensions: 
   - admonition # 折叠彩条图标插件
