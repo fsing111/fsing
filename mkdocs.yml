@@ -1,37 +1,35 @@
-site_name: SITE_NAME
+site_name: fsing 
 theme: 
   name: material
   icon:
     logo: material/library
   palette:
-
     - scheme: default # 日间模式
-      primary: deep purple # 上方的
-      accent: deep orange # 链接等可交互元件的高亮色
+      primary: indigo # 上方的
+      accent: orange # 链接等可交互元件的高亮色
       toggle:
         icon: material/weather-night # 图标
         name: 切换至夜间模式 # 鼠标悬浮提示
         - scheme: slate # 夜间模式
-        primary: deep purple
-        accent: deep orange
+        primary: indigo
+        accent: orange
         toggle:
           icon: material/weather-sunny
           name: 切换至日间模式
 
   features:
     - navigation.tabs
-        - navigation.top
-
-​    - navigation.indexes
-​    - navigation.expand
-​    - search.suggest
-​    - search.highlight
+    - navigation.top
+    - navigation.indexes
+    - navigation.expand
+    - search.suggest
+    - search.highlight
   language: zh
 
 # 这里写目录
 nav:
   - 主页:
-    - Home: index.md 
+    - : index.md 
       
 
 plugins:
