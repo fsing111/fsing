@@ -32,38 +32,14 @@ theme:
 nav:
   - 主页:
     - Home: index.md 
-      
-markdown_extensions: 
-  - admonition # 折叠彩条图标插件
-  - pymdownx.details # 折叠彩条图标插件
-  - pymdownx.superfences # 折叠彩条图标插件
-  - def_list # 任务列表
-  - pymdownx.tasklist: # 任务列表
-      custom_checkbox: true #  任务列表
-#  - mdx_truly_sane_lists
-  - abbr # 工具提示
-  - attr_list # 工具提示、按钮
-  - pymdownx.snippets # 工具提示
-  - pymdownx.snippets: # 术语拓展
-      auto_append: # 术语拓展
-        - includes/abbreviations.md # 术语拓展
-  - pymdownx.emoji: # 表情图标拓展
-      emoji_index: !!python/name:material.extensions.emoji.twemoji # 表情图标拓展
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg # 表情图标拓展
-  - pymdownx.critic # 格式Formatting
-  - pymdownx.caret # 格式Formatting
-  - pymdownx.keys # 格式Formatting
-  - pymdownx.mark # 格式Formatting
-  - pymdownx.tilde # 格式Formatting
-  - md_in_html # 注释Annotations
-  - pymdownx.superfences # 注释Annotations
-  - tables # 表格
-edit_uri: edit/main/docs
+plugins:
+  - mermaid2:
+      arguments:
+        theme: light
 
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
-  - stylesheets/extra.css # 自定义折叠彩条图 
-
+  
 extra:
   homepage: https://fsing111.github.io/fsing/ 
   social: # icons
