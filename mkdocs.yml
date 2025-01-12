@@ -60,7 +60,8 @@ edit_uri: edit/main/docs
 nav:
   - 主页:
     - Home: index.md
-  extra_css:
+
+extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
   - stylesheets/extra.css # 自定义折叠彩条图
 extra:
