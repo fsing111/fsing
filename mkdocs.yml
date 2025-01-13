@@ -60,6 +60,14 @@ edit_uri: edit/main/docs
 nav:
   - 主页:
     - Home: index.md
+  - 学习:
+    - Linux: study/Linux.md
+    - C: study/c.md
+    - 英语: study/english.md
+    - 书籍: study/book.md
+  - OTL: 
+    - OTL: OTL/OTL.md
+
 
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
