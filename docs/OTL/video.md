@@ -11,6 +11,6 @@
  <details>
          <summary>图片</summary>
          <p>
-             <a href="https://fsing111.github.io/fsing/OTL/video/yugong.png"><img src="video/yugong.png"/>
+             <a href="https://fsing111.github.io/fsing/OTL/video/yugong.png"><img src="video/yugong.png"/></a>
          </p>
      </details>
