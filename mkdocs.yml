@@ -7,14 +7,14 @@ theme:
       abstract: fontawesome/brands/bilibili
   palette:
     - scheme: slate # 夜间模式
-      primary: indigo
-      accent: orange
+      primary: deep purple
+      accent: deep orange
       toggle:
         icon: material/weather-sunny
         name: 切换至日间模式
     - scheme: default # 日间模式
-      primary: indigo # 上方的
-      accent: orange # 链接等可交互元件的高亮色（按钮也算）
+      primary: deep purple # 上方的
+      accent: deep orange # 链接等可交互元件的高亮色（按钮也算）
       toggle:
         icon: material/weather-night # 图标
         name: 切换至夜间模式 # 鼠标悬浮提示
@@ -68,6 +68,7 @@ nav:
   - OTL: 
     - OTL: OTL/OTL.md
     - 超事件: OTL/things.md
+    - video: OTL/video.md  
 
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
