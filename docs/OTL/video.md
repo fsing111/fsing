@@ -9,7 +9,7 @@
 我将讲上海的三集剪辑了一下，在 bilibili 上投放， 收获了可观的数据。
 
  <details>
-      <summary> </summary>
+      <summary></summary>
       <p>
           <img src="video/yu gong.png"/>
       </p>
