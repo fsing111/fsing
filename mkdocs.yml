@@ -67,7 +67,7 @@ nav:
     - 书籍: study/book.md
   - OTL: 
     - OTL: OTL/OTL.md
-
+    - 超事件: OTL/things.md
 
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
