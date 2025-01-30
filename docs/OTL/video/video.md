@@ -11,6 +11,7 @@
  <details>
          <summary>图片</summary>
          <p>
-             <img src = "video/yugong.png"/>
+             <img src = "yugong.png"/>
          </p>
 </details>
+
