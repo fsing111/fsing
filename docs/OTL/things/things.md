@@ -8,7 +8,7 @@
                <img src="waitan.png"/>
                <img src="waitan1.png"/>
            </p>
-       </details>
+  </details>
 
 - 国棉十七厂（上海国际时尚中心）
 
