@@ -94,9 +94,23 @@
         </p>
     </details>
 
-  
+- 上海市工人文化宫
 
-  
+    <details>
+        <summary></summary>
+        <p>
+            <img src="things/gong.png"/>
+        </p>
+    </details>
+
+-  其他
+
+    <details>
+        <summary></summary>
+        <p>
+            <img src="things/jing.png"/>
+        </p>
+    </details>
 
   
 
