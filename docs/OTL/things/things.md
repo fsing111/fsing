@@ -15,8 +15,8 @@
     <details>
         <summary></summary>
         <p>
-            <img src="things/17chang1.png"/>
-            <img src="things/17chang.png"/>
+            <img src="17chang1.png"/>
+            <img src="17chang.png"/>
         </p>
     </details>
 
@@ -25,8 +25,8 @@
     <details>
         <summary></summary>
         <p>
-            <img src="things/gongzongsi.png"/>
-            <img src="things/gonghui.png"/>
+            <img src="gongzongsi.png"/>
+            <img src="gonghui.png"/>
         </p>
     </details>
 
@@ -35,7 +35,7 @@
     <details>
         <summary></summary>
         <p>
-            <img src="things/yuyuan.png"/>
+            <img src="yuyuan.png"/>
         </p>
     </details>
 
@@ -44,8 +44,8 @@
     <details>
         <summary></summary>
         <p>
-            <img src="things/jiad.png"/>
-            <img src="things/laojia.png"/>
+            <img src="jiad.png"/>
+            <img src="laojia.png"/>
         </p>
     </details>
 
@@ -54,7 +54,7 @@
     <details>
         <summary></summary>
         <p>
-            <img src="things/guangchang.png"/>
+            <img src="guangchang.png"/>
         </p>
     </details>
 
@@ -63,7 +63,7 @@
     <details>
         <summary></summary>
         <p>
-            <img src="things/huitang.png"/>
+            <img src="huitang.png"/>
         </p>
     </details>
 
@@ -72,7 +72,7 @@
     <details>
         <summary></summary>
         <p>
-            <img src="things/yingyuan.png"/>
+            <img src="yingyuan.png"/>
         </p>
     </details>
 
@@ -81,7 +81,7 @@
     <details>
         <summary></summary>
         <p>
-            <img src="things/e.png"/>
+            <img src="e.png"/>
         </p>
     </details>
 
@@ -90,7 +90,7 @@
     <details>
         <summary></summary>
         <p>
-            <img src="things/su.png"/>
+            <img src="su.png"/>
         </p>
     </details>
 
@@ -99,7 +99,7 @@
     <details>
         <summary></summary>
         <p>
-            <img src="things/gong.png"/>
+            <img src="gong.png"/>
         </p>
     </details>
 
@@ -108,7 +108,7 @@
     <details>
         <summary></summary>
         <p>
-            <img src="things/jing.png"/>
+            <img src="jing.png"/>
         </p>
     </details>
 
