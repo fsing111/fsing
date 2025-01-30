@@ -8,10 +8,5 @@
 
 我将讲上海的三集剪辑了一下，在 bilibili 上投放， 收获了可观的数据。
 
- <details>
-         <summary>图片</summary>
-         <p>
-             <img src = "video/yugong.png"/>
-         </p>
-</details>
+[链接](https://www.bilibili.com/video/BV1efCrYdEX6/?spm_id_from=333.1387.homepage.video_card.click)
 
