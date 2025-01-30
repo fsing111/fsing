@@ -5,8 +5,8 @@
   <details>
            <summary></summary>
            <p>
-               <img src="things/waitan.png"/></a>
-               <img src="things/waitan1.png"/></a>
+               <img src="waitan.png"/></a>
+               <img src="waitan1.png"/></a>
            </p>
        </details>
 
