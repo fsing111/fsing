@@ -66,6 +66,11 @@ nav:
     - 英语: study/english.md
     - 书籍: study/book.md
     - sss: study/sss.md
+  - 408:
+    - 数据结构: 408/数据结构.md
+    - 操作系统: 408/操作系统.md
+    - 计算机网络: 408/计算机网络.md
+    - 计算机组成原理: 408/计算机组成原理.md
   - OTL: 
     - 超事件: OTL/things/things.md
     - video: OTL/video/video.md  
