@@ -8,7 +8,7 @@
 
 ​               首先我们打开我们使用的代理客户端设置页面，查看其开放的 **HTTP** 端                   口，例如我这里是7897.
 
-​               <img src="/Users/mbp2021/Documents/fsing/docs/study/Terminal/Terminal/端口.png">
+​               <img src="端口.png">
 
 
 
@@ -69,20 +69,17 @@
 
 - ### 配置 Git 代理
 
-          ```html
+          
           git config --global http.proxy http://127.0.0.1:7897
           git config --global https.proxy https://127.0.0.1:7897
-          ```
-
-  取消git代理
-
-  ```html
-  git config --global --unset http.proxy
-  git config --global --unset https.proxy
-  ```
-
+      
+   取消git代理
   
-
+   ```html
+   git config --global --unset http.proxy
+   git config --global --unset https.proxy
+   ```
+  
 - ## 其他包代理
 
   	其他包如NPM，poetry均需单独配置代理，可以自行在网络上搜索教程，配置代理。
