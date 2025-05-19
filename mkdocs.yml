@@ -65,7 +65,7 @@ nav:
     - C: study/c.md
     - 英语: study/english.md
     - 书籍: study/book.md
-    - sss: study/sss.md
+    - Terminal如何配置网络代理: study/Terminal/Terminal.md
   - 408:
     - 数据结构: 408/数据结构.md
     - 操作系统: 408/操作系统.md
