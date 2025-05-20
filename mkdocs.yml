@@ -61,11 +61,8 @@ nav:
   - 主页:
     - Home: index.md
   - 学习:
-    - Linux: study/Linux.md
-    - C: study/c.md
-    - 英语: study/english.md
-    - 书籍: study/book.md
     - Terminal如何配置网络代理: study/Terminal/Terminal.md
+    - 根据Markdown标记文本自动化生成PPT: ppt/ppt/ppt.md
   - 408:
     - 数据结构: 408/数据结构.md
     - 操作系统: 408/操作系统.md
